@@ -1,6 +1,8 @@
 markdown
 # 🏊 AI Swim Advisor
 
+![AI Swim Advisor Screenshot](screenshot.png)
+
 An interactive web application built with **Streamlit** that determines if weather and sea conditions are suitable for swimming tomorrow. It fetches real-time meteorological data and uses the **Google GenAI SDK** to generate a personalized swimming recommendation.
 
 ## 🚀 Features
